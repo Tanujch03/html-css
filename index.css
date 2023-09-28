@@ -1,0 +1,292 @@
+#box1
+{
+    border-radius: 15px;
+    background-color: tomato;
+    width: 250px;
+    height: 150px;
+    border: 2px solid;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    transform: translatex(100px) translateY(50px) rotateZ(45deg) scale(0.5);
+    border: none;
+    animation-name: slideright;
+    animation-duration: 5s;
+}
+#box2
+{
+    border-radius: 15px;
+    background-color: lightgreen;
+    width: 200px;
+    height: 100px;
+    border: 2px solid;
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    border: none;
+    animation-name: slideright;
+    animation-duration: 5s;
+    border-radius: 15px;
+    transform: rotateZ(45deg)
+    
+    
+    
+}
+#box3
+{
+    border-radius: 15px;
+    background-color: lightpink;
+    width: 250px;
+    height: 150px;
+    border: 2px solid;
+    font-size: 6em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    border: none;
+    animation-name: slideright;
+    animation-duration: 5s;
+    border-radius: 15px;
+    transform: translatex(150px) translateY(50px) rotateZ(45deg) scale(0.5);
+    border-radius: 15px;
+}
+#box4
+{
+    border-radius: 15px;
+    
+    background-color: lightblue;
+    width: 190px;
+    height: 100px;
+    border:none;
+    animation-name: slideright;
+    animation-duration: 5s;
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    
+    transform: rotateZ(45deg)
+    
+}
+
+#box5
+{
+    border-radius: 15px;
+    border: none;
+    background-color: lightblue;
+    width: 150px;
+    height: 100px;
+    
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    border-radius: 15px;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    transform: translate(280px, -450px) rotateZ(300deg) scale(0.7);
+    border-radius: 15px;
+}
+#box6
+{
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(239, 239, 128);
+    width: 260px;
+    height: 130px;
+    
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    
+    transform: translate(250px, -400px) rotateZ(45deg) scale(0.5);
+    
+}
+#box7
+{
+    border-radius: 15px;
+   
+    background-color: rgb(125, 222, 110);
+    width: 230px;
+    height: 150px;
+    border: none;
+    font-size: 6em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    border-radius: 15px;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    transform: translate(350px, -390px) rotateZ(45deg) scale(0.5);
+    border-radius: 15px;
+}
+#box8
+{
+    border-radius: 15px;
+    
+    background-color: rgb(75, 152, 228);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    border-radius: 15px;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    transform: translate(500px, -850px) rotateZ(45deg) scale(0.7);
+    border-radius: 15px;
+}
+#box9
+{
+    border-radius: 15px;
+    
+    background-color: rgb(246, 118, 226);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    border-radius: 15px;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    transform: translate(500px, -800px) rotateZ(300deg) scale(0.5);
+    border-radius: 15px;
+    
+}
+#box10
+{
+    border-radius: 15px;
+   
+    background-color: rgb(95, 234, 188);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    animation-name: slideright;
+    animation-duration: 5s;
+   
+    
+    transform: translate(600px, -800px) rotateZ(120deg) scale(0.5);
+    
+}
+#box11
+{
+    border-radius: 15px;
+   
+    background-color: rgb(131, 245, 245);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    animation-name: slideright;
+    animation-duration: 5s;
+   
+    
+    transform: translate(700px, -1500px) rotateZ(45deg) scale(0.5);
+    
+}
+#box12
+{
+    border-radius: 15px;
+    
+    background-color: rgb(231, 137, 182);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    border-radius: 15px;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    transform: translate(700px, -1500px) rotateZ(45deg) scale(0.5);
+}
+    
+#box13
+{
+    border-radius: 15px;
+    background-color: rgb(236, 176, 117);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    
+    transform: translate(700px, -1500px) rotateZ(45deg) scale(0.5);
+    
+}
+#box14
+{
+    border-radius: 15px;
+    background-color: rgb(236, 176, 117);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    animation-name: slideright;
+    animation-duration: 5s;
+   
+    
+    transform: translate(850px, -1800px) rotateZ(320deg) scale(0.5);
+}
+
+#box15
+{
+    border-radius: 15px;
+    background-color: rgb(246, 132, 104);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    
+    transform: translate(900px, -1800px) rotateZ(320deg) scale(0.7);
+    
+}
+#box16
+{
+    background-color: rgb(211, 182, 234);
+    width: 250px;
+    height: 150px;
+    border: none;
+    font-size: 7em;
+    text-align: center;
+    border-radius: 15px;
+    font-family: 'Mulish', sans-serif;
+    animation-name: slideright;
+    animation-duration: 5s;
+    
+    
+    transform: translate(900px, -1710px) rotateZ(320deg) scale(0.9);
+    border-radius: 15px;
+    
+    
+}
+
+@keyframes slideright
+{
+    from{transform:translate(100px)}
+}
+
+
+
