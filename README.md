@@ -1,1 +1,1 @@
-# html-css
+# A simple application of css on html.
